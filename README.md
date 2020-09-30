@@ -50,21 +50,21 @@ Copyright: Sarkar, Bali & Ghosh &emsp; ISBN 13: 9781788831307<br/>
 
 ## [Contents](https://github.com/dipanjanS/hands-on-transfer-learning-with-python/tree/master/notebooks#book-contents)  
 
- - [__Part I: Deep learning foundations__](https://github.com/dipanjanS/hands-on-transfer-learning-with-python/tree/master/notebooks#part-i-deep-learning-foundations)
+ - [__Part I: Deep learning foundations:__](https://github.com/dipanjanS/hands-on-transfer-learning-with-python/tree/master/notebooks#part-i-deep-learning-foundations)
     - [Chapter 1: Machine Learning Fundamentals Basics](https://github.com/dipanjanS/hands-on-transfer-learning-with-python/tree/master/notebooks/Ch01%20-%20Machine%20Learning%20Fundamentals)
     - [Chapter 2: Deep Learning Essentials Basics](https://github.com/dipanjanS/hands-on-transfer-learning-with-python/tree/master/notebooks/Ch02%20-%20Deep%20Learning%20Essentials)
     - Chapter 3: Understanding Deep Learning Architectures Basics
- - [__Part II: Essentials of transfer learning__](https://github.com/dipanjanS/hands-on-transfer-learning-with-python/tree/master/notebooks#part-ii-essentials-of-transfer-learning)
+ - [__Part II: Essentials of transfer learning:__](https://github.com/dipanjanS/hands-on-transfer-learning-with-python/tree/master/notebooks#part-ii-essentials-of-transfer-learning)
     - Chapter 4: Transfer Learning Fundamentals Basics
     - [Chapter 5: Unleashing the Power of Transfer Learning](https://github.com/dipanjanS/hands-on-transfer-learning-with-python/tree/master/notebooks/Ch05%20-%20Unleash%20the%20Power%20of%20Transfer%20Learning)
- - [__Part III: Transfer learning case studies__](https://github.com/dipanjanS/hands-on-transfer-learning-with-python/tree/master/notebooks#part-iii-transfer-learning-case-studies)
-    - [Chapter 6: Image Recognition and Classification](https://github.com/dipanjanS/hands-on-transfer-learning-with-python/tree/master/notebooks/Ch06%20-%20Image%20Recognition%20and%20Classification)
-    - [Chapter 7: Text Document Categorization](https://github.com/dipanjanS/hands-on-transfer-learning-with-python/tree/master/notebooks/Ch07%20-%20Text%20Document%20Categorization)
-    - [Chapter 8: Audio Identification and Classification](https://github.com/dipanjanS/hands-on-transfer-learning-with-python/tree/master/notebooks/Ch08%20-%20Audio%20Identification%20and%20Categorization)
-    - [Chapter 9: Deep Dream](https://github.com/dipanjanS/hands-on-transfer-learning-with-python/tree/master/notebooks/Ch09%20-%20Deep%20Dream)
-    - [Chapter 10: Style Transfer](https://github.com/dipanjanS/hands-on-transfer-learning-with-python/tree/master/notebooks/Ch10%20-%20Neural%20Style%20Transfer)
-    - [Chapter 11: Automated Image Caption Generator](https://github.com/dipanjanS/hands-on-transfer-learning-with-python/tree/master/notebooks/Ch11%20-%20Automated%20Image%20Caption%20Generator)
-    - [Chapter 12: Image Colorization](https://github.com/dipanjanS/hands-on-transfer-learning-with-python/tree/master/notebooks/Ch12%20-%20Image%20Colorization)
+ - [__Part III: Transfer learning case studies:__](https://github.com/dipanjanS/hands-on-transfer-learning-with-python/tree/master/notebooks#part-iii-transfer-learning-case-studies)
+    - [Chapter 6: Image Recognition and Classification:](https://github.com/dipanjanS/hands-on-transfer-learning-with-python/tree/master/notebooks/Ch06%20-%20Image%20Recognition%20and%20Classification)
+    - [Chapter 7: Text Document Categorization:](https://github.com/dipanjanS/hands-on-transfer-learning-with-python/tree/master/notebooks/Ch07%20-%20Text%20Document%20Categorization)
+    - [Chapter 8: Audio Identification and Classification:](https://github.com/dipanjanS/hands-on-transfer-learning-with-python/tree/master/notebooks/Ch08%20-%20Audio%20Identification%20and%20Categorization)
+    - [Chapter 9: Deep Dream:](https://github.com/dipanjanS/hands-on-transfer-learning-with-python/tree/master/notebooks/Ch09%20-%20Deep%20Dream)
+    - [Chapter 10: Style Transfer:](https://github.com/dipanjanS/hands-on-transfer-learning-with-python/tree/master/notebooks/Ch10%20-%20Neural%20Style%20Transfer)
+    - [Chapter 11: Automated Image Caption Generator:](https://github.com/dipanjanS/hands-on-transfer-learning-with-python/tree/master/notebooks/Ch11%20-%20Automated%20Image%20Caption%20Generator)
+    - [Chapter 12: Image Colorization:](https://github.com/dipanjanS/hands-on-transfer-learning-with-python/tree/master/notebooks/Ch12%20-%20Image%20Colorization)
 
 
 ## Key Features:
