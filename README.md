@@ -2,6 +2,7 @@
 ### Implement advanced deep learning and neural network models using Tensorflow and Keras
 
 Keras is an open-source neural-network library written in Python. It is capable of running on top of TensorFlow, Microsoft Cognitive Toolkit, R, Theano, or PlaidML. Designed to enable fast experimentation with deep neural networks, it focuses on being user-friendly, modular, and extensible.
+Keras is an API designed for human beings, not machines. Keras follows best practices for reducing cognitive load: it offers consistent & simple APIs, ...
 With the world moving towards digitalization and automation, as a technologist/programmer it is important to keep oneself updated and learn how to leverage these tools and techniques. [*__"Hands-On Transfer Learning with Python"__*](https://github.com/dipanjanS/hands-on-transfer-learning-with-python#contents), is an attempt to help practitioners get acquainted with and equipped to use these advancements in their respective domains. This book is structured broadly into three sections:
 + Deep learning foundations
 + Essentials of transfer learning
