@@ -42,7 +42,7 @@ holdout_corpus, holdout_target = remove_empty_docs(holdout_corpus, holdout_targe
 print(len(holdout_corpus))
 holdout_corpus_to_seq = preprocessor.transform(holdout_corpus)
 
-glove=GloVe(50)
+glove=GloVe(45)
 initial_embeddings = glove.get_embedding(preprocessor.word_index)
 
 amazon_review_model = DocumentModel(vocab_size=preprocessor.get_vocab_size(),
@@ -50,15 +50,15 @@ amazon_review_model = DocumentModel(vocab_size=preprocessor.get_vocab_size(),
                                     num_sentences=Preprocess.NUM_SENTENCES,                                    
                                     embedding_weights=initial_embeddings,
                                     conv_activation = 'tanh',
-                                    hidden_dims=64,                                        
-                                    input_dropout=0.40, 
-                                    hidden_gaussian_noise_sd=0.5)
+                                    hidden_dims=54,                                        
+                                    input_dropout=0.30, 
+                                    hidden_gaussian_noise_sd=0.4)
 
 train_params = TrainingParameters('model_with_tanh_activation', 
                                   model_file_path = config.MODEL_DIR+ '/amazonreviews/model_06.hdf5',
                                   model_hyper_parameters = config.MODEL_DIR+ '/amazonreviews/model_06.json',
                                   model_train_parameters = config.MODEL_DIR+ '/amazonreviews/model_06_meta.json',
-                                  num_epochs=35)
+                                  num_epochs=30)
 
 train_params.save()
 
