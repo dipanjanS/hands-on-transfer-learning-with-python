@@ -6,7 +6,7 @@ With the world moving towards digitalization and automation, as a technologist/p
 + Essentials of transfer learning
 + Transfer learning case studies
 
-This repository contains all the code, notebooks and examples used in this book. We will also be adding bonus content here from time to time. So keep watching this space!
+This is an amazing repository contains all the code, notebooks and examples used in this book. We will also be adding bonus content here from time to time. So keep watching this space!
 
 
 ## Get the book
